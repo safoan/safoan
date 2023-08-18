@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently learning computer science
 
-- 👀 I’m interested in Desktop apps & Databases
-
+- 👀 I'm interested in building web apps and Development in General
+   
 -  reach me in 
 - linkedin :  https://www.linkedin.com/in/safouane-bazine-7911b41a3/
 - E-mail : safibazine@gmail.com
