@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @safoan
 
-- 🌱 I’m currently learning computer science
-
-- 👀 I'm interested in building web apps and Development in General
+- self taught software developer
    
 -  reach me in 
 - linkedin :  https://www.linkedin.com/in/safouane-bazine-7911b41a3/
