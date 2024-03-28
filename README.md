@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @safoan
+- Safoan Bazine 
 
-- self taught software developer
+- Software Developer / Back-end & Databases are my thing 
+- SQL / Typescript / nodejs / C# / Postgress / Express / MongoDB / Azure
+- Nextjs /Reactjs /  Delphi / Tailwind / Python 
    
 -  reach me in 
 - linkedin :  https://www.linkedin.com/in/safouane-bazine-7911b41a3/
